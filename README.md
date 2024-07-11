@@ -5,3 +5,4 @@
 
 - `State.php` All 50 States
 - `Language.php` 100+ most used languages in the world
+- `Timezone.php` "IANA" Time Zones
